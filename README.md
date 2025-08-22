@@ -1,1 +1,1 @@
-# Django-Hotel
+Django Hotel is a hotel management application that allows for customer registration, room booking creation and tracking, as well as payment management. Through the Room, Customer, Booking, and Payment models, the application tracks which customer made a booking, for which room, and for which dates, calculates the booking cost, and updates the payment status (Pending, Completed, Failed, Cancelled). It also provides automated username generation for customers and supports room availability checks.
